@@ -50,8 +50,9 @@
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
-    "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-154844884-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-154844884-1');\n</script>",
+    "cookiesAlert": false
   },
   "pages": {
     "index.html": {
